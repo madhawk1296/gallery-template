@@ -1,1 +1,1 @@
-export default {"items":{"items":[],"hiddenItems":[],"pinnedItems":[],"order":"newest"},"walletAddress":"0x309bcc55fe9cca749cff42eb94a846823d27bce6","profile":{"image":null,"name":null,"bio":null,"links":[]}}
+export default {"items":{"items":[],"hiddenItems":[],"pinnedItems":[],"order":"newest"},"walletAddress":"0x309bcc55fe9cca749cff42eb94a846823d27bce6","profile":{"image":null,"name":"Cristian","bio":null,"links":[]}}
